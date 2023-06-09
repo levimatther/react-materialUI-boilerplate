@@ -1,0 +1,39 @@
+.pt-1 {
+    padding-top: 10px;
+}
+.pt-2 {
+    padding-top: 20px;
+}
+.pt-3 {
+    padding-top: 30px;
+}
+.pt-10 {
+    padding-top: 100px;
+}
+.pt-12 {
+    padding-top: 120px;
+}
+.pt-17 {
+    padding-top: 170px;
+}
+.pt-20 {
+    padding-top: 200px;
+}
+.pt-15 {
+    padding-top: 150px;
+}
+.btn-width-130 {
+    width: 130px
+}
+.btn-width-150 {
+    width: 150px
+}
+.mt-2 {
+    margin-top: 20px;
+}
+@media only screen and (max-width: 1200px) {
+    .MuiGrid-item {
+        padding-top: 10px
+    }
+}
+
